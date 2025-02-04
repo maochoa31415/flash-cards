@@ -46,6 +46,7 @@ const progressStyle = computed(() => {
     height: 34px;
     border-radius: 8px;
     background-color: #bdbdbd;
+    transition: width 300ms ease;
 
     &-label {
       margin: 0 auto 0 0;
