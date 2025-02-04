@@ -7,9 +7,17 @@ Project for roadmap.sh:
 ## How to
 
 ```bash
-    # Install dependences
+    #1-Install dependences
     npm install
+```
 
-    # Run the develop server
+```bash
+    #2-Run the develop server
     npm run dev
 ```
+
+---
+
+Please fell free to evaluate my solution:
+
+[https://roadmap.sh/projects/flash-cards/solutions?u=678e566098c00f71177f3b11](https://roadmap.sh/projects/flash-cards/solutions?u=678e566098c00f71177f3b11)
