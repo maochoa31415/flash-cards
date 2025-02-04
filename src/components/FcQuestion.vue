@@ -37,7 +37,7 @@ const props = withDefaults(defineProps<Props>(), {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 12px;
+    padding: 12px 48px;
     text-align: center;
     border-radius: 8px;
     background-color: #eeeeee;
@@ -47,7 +47,7 @@ const props = withDefaults(defineProps<Props>(), {
   .answer {
     position: absolute;
     inset: 0;
-    width: calc(100% - 24px);
+    width: calc(100% - 96px);
     font-size: 1.5rem;
     font-weight: 600;
     backface-visibility: hidden;
